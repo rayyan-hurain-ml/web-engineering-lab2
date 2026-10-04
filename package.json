@@ -1,0 +1,23 @@
+{
+  "name": "web-engineering-lab",
+  "version": "1.0.0",
+  "description": "Web Engineering lab project - Sir Syed CASE Institute of Technology",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --check .",
+    "start": "serve public",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "Rayyan Hurain",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^10.12.0",
+    "prettier": "^3.9.9",
+    "serve": "^14.2.6"
+  }
+}
