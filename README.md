@@ -1,6 +1,6 @@
 # Web Engineering Lab
 
-Lab project for **Web Engineering** at Sir Syed CASE Institute of Technology, Islamabad.
+Lab project for **Web Engineering**
 
 **Author:** Rayyan Hurain
 
